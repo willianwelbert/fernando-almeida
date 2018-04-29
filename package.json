@@ -1,0 +1,25 @@
+{
+  "name": "fernando-almeida",
+  "version": "1.0.0",
+  "description": "Portfólio do Ilustrador Fernando Almeida",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianwelbert/fernando-almeida.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianwelbert/fernando-almeida/issues"
+  },
+  "homepage": "https://github.com/willianwelbert/fernando-almeida#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "node-sass": "^4.9.0"
+  }
+}
